@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is a branch of computer science focused on creating systems that can perform tasks requiring human intelligence.
+It includes areas like machine learning, natural language processing, robotics, and computer vision.
+AI enables machines to learn from data and improve their performance over time without explicit programming.
+It powers technologies such as virtual assistants, recommendation systems, and autonomous vehicles.
+AI is used in industries like healthcare, finance, manufacturing, and entertainment.
+There are two main types: narrow AI (task-specific) and general AI (human-like reasoning).
+Machine learning, a subset of AI, uses algorithms to detect patterns in data.
+Deep learning, a more complex form, uses neural networks to mimic human brain function.
+Ethical concerns around AI include privacy, bias, and job displacement.
+AI continues to evolve rapidly, shaping the future of technology and society.
+Let me know if you want this tailored for a [school project](f), [technical overview](f), or [business use](f).
